@@ -38,3 +38,210 @@ a {
 .active {
 	color: #4E6FAE;
 }
+
+.date {
+	height: 50px;
+	width: 50px;
+	background-color: #5012D5;
+
+	color: #84FF81;
+	font-family: Helvetica;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding: 8px 11px;
+	margin-bottom: 18px;
+	margin-top: 155px;
+}
+
+h3 {
+	color: #8D81FF;
+	font-family: FiraGO;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-bottom: 8px;
+}
+
+h4 {
+	color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-bottom: 13px;
+}
+
+.banner {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 66px;
+}
+
+.articles {
+	display: inline-block;
+	width: 778px;
+	vertical-align: top;
+}
+
+p {
+	color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+
+	margin-bottom: 30px;
+}
+
+.p1 {
+	font-family: "BPG Square", sans-serif;
+
+}
+
+.icon {
+	margin-top: 145px;
+}
+
+.siaxleebi {
+	width: 150px
+	height: 34px
+	top: 255px
+	left: 885px
+
+	font-family: FiraGO;
+	font-size: 26px;
+	font-weight: 700;
+	line-height: 31px;
+	text-align: left;
+	color: #4E6FAE;
+	display: inline-block
+}
+
+.detail {
+
+	background: #E7E7E7;
+	width: 500px;
+	height: 192px;
+	display: inline-block;
+	margin-right: 52px;
+	vertical-align: middle;
+}
+
+.satauri {
+	color: #3F4145;
+	font-family: Helvetica Neue;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding-top: 21px;
+	padding-left: 23px;
+	padding-right: 170px;
+}
+
+.image {
+	padding-left: 36px;
+	padding-right: 37px;
+	padding-top: 20px;
+    display: inline-block;
+}
+
+.text {
+	width: 335px; 
+	height: 95px; 
+	text-align: left;
+	color: #7E8898; 
+	font-size: 16px; 
+	font-family: Helvetica Neue LT GEO;
+	font-weight: 400;
+	display: inline-block;
+	padding-top: 20px;
+}
+
+.detail2 {
+	background: #E7E7E7;
+	width: 500px;
+	height: 192px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.satauri2 {
+	color: #3F4145;
+	font-family: Helvetica Neue;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding-top: 21px;
+	padding-left: 29px;
+}
+
+.image2 {
+	margin-left: 52px;
+}
+
+.text2 {
+	width: 335px; 
+	height: 95px; 
+	text-align: left;
+	color: #7E8898; 
+	font-size: 16px; 
+	font-family: Helvetica Neue LT GEO;
+	font-weight: 400;
+	display: inline-block;
+	padding-top: 15px;
+}
+
+
+.maindiv {
+	width: 100%;
+	height: 100%;
+	background: #E7E7E7;
+	display: inline-block;
+	padding-left: 162px;
+}
+
+.contactinfo {
+	color: #4E6FAE;
+	font-family: Helvetica Neue;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	padding-top: 93px;
+	display: inline-block;
+}
+
+.contactinfo1 {
+	color: #7E8898;
+	font-family: Helvetica Neue LT GEO;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	display: ;
+}
+
+.map {
+	width: 944px;
+	height: 549px;
+	-left: 676px;
+	margin-right: 40px;
+	margin-top: 93px;
+	margin-bottom: 93px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.maindiv1 {
+	display: inline-block;
+	width: 474px;
+	height: 34px;
+	vertical-align: top;
+}
