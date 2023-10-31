@@ -1,0 +1,40 @@
+body {
+	padding-top: 54px;
+	padding-left: 52px;
+}
+
+header {
+	margin-bottom: 44px;
+}
+
+.logo {
+	display: inline-block;
+	vertical-align: middle;
+
+	margin-right: 60px;
+}
+
+
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+
+li {
+	display: inline-block;
+	margin-right: 87px;
+}
+
+a {
+	color: #8D81FF;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.active {
+	color: #4E6FAE;
+}
