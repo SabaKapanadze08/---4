@@ -89,18 +89,19 @@ h4 {
 
 p {
 	color: #4E6FAE;
-	font-family: FiraGO;
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 400;
 	line-height: normal;
-
 	margin-bottom: 30px;
 }
 
 .p1 {
-	font-family: "BPG Square", sans-serif;
+	font-family: "BPG Nostalgia", sans-serif;
+}
 
+.p2 {
+	font-family: "BPG Square", sans-serif;
 }
 
 .icon {
