@@ -104,8 +104,85 @@ p {
 	font-family: "BPG Square", sans-serif;
 }
 
+.container {
+	width: 1052px;
+	margin: 0 auto;
+}
+
+.banner1 {
+	width: 100%;
+}
+
+.sec-2 {
+	margin-top: 120px;
+	margin-bottom: 93px;
+}
+
+.title {
+	margin-bottom: 26px;
+}
+
 .icon {
 	margin-top: 145px;
+}
+
+.box1 {
+	width: 500px;
+	height: 192px;
+	background-color: #E7E7E7;
+	display: inline-block;
+	margin-right: 48px;
+	vertical-align: middle;
+}
+
+.box2 {
+	width: 500px;
+	height: 192px;
+	background-color: #E7E7E7;
+	display: inline-block;
+	vertical-align: middle;
+
+}
+
+.line2 {
+	margin: 0 41px;
+}
+
+.h1 {
+	color: #4E6FAE;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	display: inline-block;
+}
+
+.line11 {
+	margin-left: 18px;
+	margin-right: 17px;
+	vertical-align: middle;
+}
+
+.h2 {
+	display: inline-block;
+	color: #4E6FAE;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+h3 {
+	font-family: "BPG Nateli", sans-serif;
+	font-weight: bold;
+
+}
+
+.image1 {
+	display: inline-block;
+	margin-left: 36px;
+	margin-top: 30px;
+	margin-right: 37px;
 }
 
 .siaxleebi {
@@ -124,7 +201,6 @@ p {
 }
 
 .detail {
-
 	background: #E7E7E7;
 	width: 500px;
 	height: 192px;
@@ -135,14 +211,14 @@ p {
 
 .satauri {
 	color: #3F4145;
-	font-family: Helvetica Neue;
+	font-family: 'Roboto', sans-serif;
 	font-size: 20px;
 	font-style: normal;
 	font-weight: 400;
 	line-height: normal;
 	padding-top: 21px;
 	padding-left: 23px;
-	padding-right: 170px;
+	display: block;
 }
 
 .image {
@@ -158,10 +234,13 @@ p {
 	text-align: left;
 	color: #7E8898; 
 	font-size: 16px; 
-	font-family: Helvetica Neue LT GEO;
 	font-weight: 400;
 	display: inline-block;
-	padding-top: 20px;
+	font-family: 'Roboto', sans-serif;
+	color: #7E8898;
+	display: inline-block;	
+	line-height: normal;
+	padding-top: 21px;
 }
 
 .detail2 {
@@ -184,7 +263,9 @@ p {
 }
 
 .image2 {
-	margin-left: 52px;
+	margin-left: 38px;
+	margin-top: 24px;
+	margin-right: 19px;
 }
 
 .text2 {
@@ -193,10 +274,9 @@ p {
 	text-align: left;
 	color: #7E8898; 
 	font-size: 16px; 
-	font-family: Helvetica Neue LT GEO;
+	font-family: "Arial GEO BoldItalic", sans-serif;
 	font-weight: 400;
 	display: inline-block;
-	padding-top: 15px;
 }
 
 
